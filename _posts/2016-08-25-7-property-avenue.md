@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-25T08:26:25.142Z'
+datePublished: '2016-08-25T08:30:29.539Z'
 sourcePath: _posts/2016-08-25-7-property-avenue.md
 isBasedOnUrl: >-
   http://www.propertyavenue.com.my/news-zn-articles/info/%E5%A6%82%E4%BD%95%E6%88%90%E5%8A%9F%E5%8F%96%E5%BE%97%E6%88%BF%E8%B4%B7%E7%9A%847%E4%B8%AA%E5%B0%8F%E8%B4%B4%E5%A3%AB-zlb%E4%B8%8B%E7%AF%87zrb/48/
@@ -7,7 +7,7 @@ keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-25T08:26:23.711Z'
+dateModified: '2016-08-25T08:30:28.597Z'
 title: ''
 app_links: []
 publisher: {}
