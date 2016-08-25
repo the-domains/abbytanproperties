@@ -1,16 +1,16 @@
-typography_spectrum: 0.9852935646194965
+layout_spectrum: 0.630728492513299
+typography_spectrum: 0.00892790756188333
 color:
-  brandStrength: 0.8358195791952312
-  lightness: 0.02326265280134976
-  saturation: 0.5066878260113299
-  rhythmicContrast: 0.5071980846114457
+  brandStrength: 0.11636516684666276
+  lightness: 0.03683435614220798
+  saturation: 0.8868448853027076
+  rhythmicContrast: 0.7501100250519812
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-layout_spectrum: 0.1731108264066279
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
 name: AbbyTan.Properties
 title: The Best KK Properties in Town
 description: KK Properties
