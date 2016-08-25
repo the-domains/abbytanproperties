@@ -1,4 +1,3 @@
-layout_spectrum: 0.1731108264066279
 typography_spectrum: 0.9852935646194965
 color:
   brandStrength: 0.8358195791952312
@@ -11,4 +10,6 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.1731108264066279
 name: AbbyTan.Properties
+title: The Best KK Properties in Town
