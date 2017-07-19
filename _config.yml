@@ -1,16 +1,51 @@
-layout_spectrum: 0.5678531529847533
-typography_spectrum: 0.4199274140410125
-color:
-  brandStrength: 0.11636516684666276
-  lightness: 0.03683435614220798
-  saturation: 0.8868448853027076
-  rhythmicContrast: 0.7501100250519812
-  brandColors:
-    - '#2E0927'
-    - '#D90000'
-    - '#FF2D00'
-    - '#FF8C00'
-    - '#04756F'
 name: AbbyTan.Properties
-title: The Best KK Properties in Town
-description: KK Properties
+analytics: {}
+purpose:
+  - type: contact
+    url: 'mailto:AbbyTan.Properties@gmail.com'
+    label: Cotact me
+  - type: contact
+    url: 'tel:+60172616216'
+    label: Whatsapp or Call Me
+github: true
+description: The Best KK Properties in Town
+author:
+  name: Abby Tan
+  email: AbbyTan.Properties@gmail.com
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content: []
+navigation:
+  - id: 6acc70c0-5ed7-4742-b210-cad69e2b87db
+    name: JCI Tanjung Aru
+    type: content
+  - id: 38353f63-41fc-44db-891f-95810edd2ca7
+    name: KK Properties for Sales
+    type: content
+layout_spectrum: 0.719682741737694
+color:
+  lightness: 0.7768512197358
+  brandColors:
+    - '#FF6600'
+    - '#C13B00'
+    - '#5E6D70'
+    - '#424E4F'
+    - '#1B1D1E'
+  saturation: 0.4250970771313082
+  brandStrength: 0.06061833529530259
+  rhythmicContrast: 0.9706979121780483
+content_rating:
+  adult: false
+typography_spectrum: 0.641903391761318
+opengraph: {}
+title: Abby Tan in the Town
